@@ -12,7 +12,8 @@ Projects map:
 
 codecademy_sql\world_pop_sql\			Codecademy basic level, dataset World Populations SQL Practice.
 
-codecademy_sql\world_pop_2_sql\		Codecademy SQL intermediate level, dataset World Populations SQL Practice II.
-						In order to complete this project, you should have completed the Codecademy Learn SQL Manipulation, Queries, 
+codecademy_sql\world_pop_2_sql\			Codecademy SQL intermediate level, dataset World Populations SQL Practice II.
+						In order to complete this project, 
+						you should have completed the Codecademy Learn SQL Manipulation, Queries, 
 						Aggregate Functions, and Multiple Tables lessons in the Codecademy Learn SQL course.
 
