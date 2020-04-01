@@ -1,7 +1,7 @@
 
+My SQL Practice Projects From:
 
 Codecademy Data Science course SQL section
-
 SQL Practice
 
 Overview:
