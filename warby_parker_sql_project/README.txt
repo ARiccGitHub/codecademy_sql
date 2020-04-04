@@ -1,11 +1,10 @@
 
 My SQL Practice Project From:
 
-Codecademy Data Science course SQL Analyze real Data with SQL section
-
- 
+Codecademy Data Science course SQL Analyze real Data with SQL section 
 Usage Funnels with Warby Parker
 
+----------------------------------------------------------------------------------------
 
 Overview:
 
@@ -25,6 +24,7 @@ purchase
 
 This project was a collaboration with Warby Parker’s Data Science team (thank you!) and uses fictional data.
 
+----------------------------------------------------------------------------------------
 
 Project map:
 
@@ -33,14 +33,18 @@ codecademy_sql\warby_parker_sql_project\quiz.csv			Data Table
 codecademy_sql\warby_parker_sql_project\home_try_on.csv			Data Table
 codecademy_sql\warby_parker_sql_project\purchase.csv			Data Table
 
-codecademy_sql\warby_parker_sql_project\ warby_parker_data_query.sql  				SQL queries code lines
-codecademy_sql\warby_parker_sql_project\warby_parker_project_presentation.pdf			Project Presentation .pdf format
-codecademy_sql\warby_parker_sql_project\questions_completion_rate.xlsx  			Excel spreadsheet Ref. Question #3
+codecademy_sql\warby_parker_sql_project\ warby_parker_data_query.sql  			SQL queries code lines
+codecademy_sql\warby_parker_sql_project\warby_parker_project_presentation.pdf		Project Presentation .pdf format
+codecademy_sql\warby_parker_sql_project\questions_completion_rate.xlsx  		Excel spreadsheet Ref. Question #3
+
+----------------------------------------------------------------------------------------
 
 Link:
+
 https://onedrive.live.com/edit.aspx?resid=AA70B8D9FB5F8FC2!54047&ithint=file%2cpptx&authkey=!AKiBm9JB2NQ7cno        PowerPoint Warby Parker Project Presentation 
 https://github.com/Codecademy/datasets/tree/master/warby-parker  						    Codecademy GitHub Warby Parker	
 			
+----------------------------------------------------------------------------------------
 
 Project:
 
