@@ -16,21 +16,25 @@ There are many possible ways to correctly fulfill all of the requirements.
 Projects map:
 
 
-codecademy_sql\world_pop_sql\			Codecademy basic level, dataset World Populations SQL Practice.
+
+
+codecademy_sql\codeflix_churn_rate_sql\		Analyze real Data with SQL section, Codeflix User Churn Rate
+						
+						Four months into launching Codeflix.
+						The marketing department is particularly interested 
+						in how the churn compares between two segments of users. 
+						They provide you with a dataset containing subscription data for users 
+						who were acquired through two distinct channels.
+ 
+						Get familiar with the data
+						Calculate churn rate for each segment
+						Bonus, modify the code to support a large number of segments.
 
 
 
 
-codecademy_sql\world_pop_2_sql\			Codecademy SQL intermediate level, dataset World Populations SQL Practice II.
 
-						In order to complete this project, 
-						you should have completed the Codecademy Learn SQL Manipulation, Queries, 
-						Aggregate Functions, and Multiple Tables lessons in the Codecademy Learn SQL course.
-
-       
-
-
-codecademy_sql\warby_parker_sql_project\	Analyze real Data with SQL section
+codecademy_sql\warby_parker_sql_project\	Analyze real Data with SQL section, Warby Parker
 						
 						Warby Parker is a transformative lifestyle brand with a lofty objective: 
 						to offer designer eyewear at a revolutionary price while leading the way 
@@ -46,14 +50,26 @@ codecademy_sql\warby_parker_sql_project\	Analyze real Data with SQL section
 
 
 
-codecademy_sql\codeflix_churn_rate_sql\		Analyze real Data with SQL section
-						
-						Four months into launching Codeflix.
-						The marketing department is particularly interested 
-						in how the churn compares between two segments of users. 
-						They provide you with a dataset containing subscription data for users 
-						who were acquired through two distinct channels.
- 
-						Get familiar with the data
-						Calculate churn rate for each segment
-						Bonus, modify the code to support a large number of segments.
+
+
+codecademy_sql\world_pop_2_sql\			Codecademy SQL intermediate level, dataset World Populations SQL Practice II.
+
+						In order to complete this project, 
+						you should have completed the Codecademy Learn SQL Manipulation, Queries, 
+						Aggregate Functions, and Multiple Tables lessons in the Codecademy Learn SQL course.
+
+       
+
+
+
+codecademy_sql\world_pop_sql\			Codecademy basic level, dataset World Populations SQL Practice.
+
+
+
+
+
+
+
+
+
+
