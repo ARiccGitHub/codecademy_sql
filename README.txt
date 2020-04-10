@@ -18,6 +18,17 @@ Projects map:
 
 
 
+codecademy_sql\cooltshirts_attribution_queries	CoolTShirts, an innovative apparel shop, is running a bunch of marketing campaigns. 
+						In this project, you’ll be helping them answer these questions about their campaigns:
+
+						1. Get familiar with the company.
+						2. What is the user journey?
+						3. Optimize the campaign budget.
+						CoolTShirts can re-invest in 5 campaigns. Which should they pick and why?
+
+
+
+
 codecademy_sql\codeflix_churn_rate_sql\		Analyze real Data with SQL section, Codeflix User Churn Rate
 						
 						Four months into launching Codeflix.
