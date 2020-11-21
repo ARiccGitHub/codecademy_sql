@@ -1,21 +1,11 @@
-
-My SQL Practice Projects From:
+﻿
+My SQL Practice Projects Folder From:
 
 Codecademy Data Science course SQL section
-SQL Practice
-
-----------------------------------------------------------------------------------------
-
-Overview:
-SQL projects are slightly different than others encounter on Codecademy. Instead of a step-by-step tutorial, 
-this projects contains a series of open-ended requirements which describe the project that needs to be built. 
-There are many possible ways to correctly fulfill all of the requirements. 
 
 ----------------------------------------------------------------------------------------
 
 Projects map:
-
-
 
 
 codecademy_sql\cooltshirts_attribution_queries	CoolTShirts, an innovative apparel shop, is running a bunch of marketing campaigns. 
